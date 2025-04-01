@@ -1,3 +1,23 @@
 #EXTM3U
-#EXTINF:-1, Moja Transmisja Na Żywo;
-http://34.116.235.69/hls/Grubi.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[FR] TF1+ STAR ACADEMY FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/STARACADEMY-FR-TV.png" group-title="FRANCE FHD | TV",[FR] TF1+ STAR ACADEMY FHD
+http://ottpremium.vitv.cc:80/CTnE5540/W7v69493/1166286
+#EXTINF:-1 tvg-id="" tvg-name="[FR] TF1 UHD/4K" tvg-logo="http://103.176.90.118/picons/logos/logos/tf1.png" group-title="FRANCE FHD | TV",[FR] TF1 UHD/4K
+http://ottpremium.vitv.cc:80/CTnE5540/W7v69493/1149251
+#EXTINF:-1 tvg-id="" tvg-name="[FR] TF1 HDR/UHD/4K" tvg-logo="http://103.176.90.118/picons/logos/logos/tf1.png" group-title="FRANCE FHD | TV",[FR] TF1 HDR/UHD/4K
+http://ottpremium.vitv.cc:80/CTnE5540/W7v69493/1149250
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="[FR] TF1 FHD" tvg-logo="http://103.176.90.118/picons/logos/france/TF1.png" group-title="FRANCE FHD | TV",[FR] TF1 FHD
+http://ottpremium.vitv.cc:80/CTnE5540/W7v69493/820880
+#EXTINF:-1 tvg-id="" tvg-name="[FR] FRANCE 2 HDR/UHD/4K" tvg-logo="http://103.176.90.118/picons/logos/logos/france2.png" group-title="FRANCE FHD | TV",[FR] FRANCE 2 HDR/UHD/4K
+http://ottpremium.vitv.cc:80/CTnE5540/W7v69493/1149249
+#EXTINF:-1 tvg-id="" tvg-name="[FR] FRANCE 2 UHD/4K" tvg-logo="http://103.176.90.118/picons/logos/logos/france2.png" group-title="FRANCE FHD | TV",[FR] FRANCE 2 UHD/4K
+http://ottpremium.vitv.cc:80/CTnE5540/W7v69493/1149248
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="[FR] FRANCE 2 FHD" tvg-logo="http://103.176.90.118/picons/logos/france/FRANCE2FHD.png" group-title="FRANCE FHD | TV",[FR] FRANCE 2 FHD
+http://ottpremium.vitv.cc:80/CTnE5540/W7v69493/820878
+#EXTINF:-1 tvg-id="" tvg-name="[FR] FRANCE 3 UHD/4K" tvg-logo="http://103.176.90.118/picons/logos/logos/france3.png" group-title="FRANCE FHD | TV",[FR] FRANCE 3 UHD/4K
+http://ottpremium.vitv.cc:80/CTnE5540/W7v69493/1149247
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="[FR] FRANCE 3 FHD" tvg-logo="http://103.176.90.118/picons/logos/france/FRANCE3FHD.png" group-title="FRANCE FHD | TV",[FR] FRANCE 3 FHD
+http://ottpremium.vitv.cc:80/CTnE5540/W7v69493/820877
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="[FR] FRANCE 4 FHD" tvg-logo="http://103.176.90.118/picons/logos/france/FRANCE4FHD.png" group-title="FRANCE FHD | TV",[FR] FRANCE 4 FHD
+http://ottpremium.vitv.cc:80/CTnE5540/W7v69493/820876
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="[FR] FRANCE 5 FHD" tvg-logo="http://103.176.90.118/picons/logos/france/FRANCE5FHD.png" group-title="FRANCE FHD | TV",[FR] FRANCE 5 FHD
+http://ottpremium.vitv.cc:80/CTnE5540/W7v69493/820875
